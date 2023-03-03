@@ -1,6 +1,6 @@
 # About
 
-I couldn't find a NodeJS parser for CentOS IPTables configs, so I wrote one.
+NodeJS parser for IPTables configs, tested on CentOS and Ubuntu.
 
 [![CircleCI](https://circleci.com/gh/wkronmiller/iptables-parser/tree/master.svg?style=svg)](https://circleci.com/gh/wkronmiller/iptables-parser/tree/master)
 
